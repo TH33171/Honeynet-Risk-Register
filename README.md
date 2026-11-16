@@ -1,6 +1,4 @@
 # Honeynet-Risk-Register
-# Honeynet Risk Register
-
 A practice cyber risk register I built in Excel, based on the risks from my Azure honeynet lab:
 https://github.com/TH33171/Azure-Active-Directory-Lab
 
