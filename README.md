@@ -26,7 +26,7 @@ turning the risks I observed into a register, assigning each one an ID, tracking
 - Key Vault is accessible via a public endpoint
 - Storage account accessible via a public endpoint
 
-I measured the likelihood scores based off what i observed in the lab. A large number of brute force attacks and malicious traffic were observed prior to hardening. 
+I measured the likelihood scores based on what I observed in the lab. A large number of brute force attacks and malicious traffic were observed prior to hardening. 
 
 ## Lesson learned
 Measuring risks is often a judgment call that can vary; hence, it's better to base it on actual evidence. This lab also helped me practice my Excel skills, as they are often vital to GRC work, such as pivot tables, conditional formatting, IF functions, formulas, and data validation. 
