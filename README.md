@@ -2,8 +2,8 @@
 A practice cyber risk register I built in Excel, based on the risks from my Azure honeynet lab:
 https://github.com/TH33171/Azure-Active-Directory-Lab
 
-![Risk register](risk-register.png)
-![Summary pivot table](summary.png)
+![Risk register](Screenshot%202026-11-18%20005348.png)
+![Summary pivot table](Screenshot%202026-11-18%20005357.png)
 
 ## Why I made it
 In my honeynet project, I observed incoming attacks via Microsoft Sentinel, then hardened the environment. I wanted to show the GRC side of that lab by 
