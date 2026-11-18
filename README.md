@@ -5,7 +5,6 @@ https://github.com/TH33171/Azure-Active-Directory-Lab
 ![Risk register](risk-register.png)
 ![Summary pivot table](summary.png)
 
-
 ## Why I made it
 In my honeynet project, I observed incoming attacks via Microsoft Sentinel, then hardened the environment. I wanted to show the GRC side of that lab by 
 turning the risks I observed into a register, assigning each one an ID, tracking and scoring them, and assigning each to an owner, just as a GRC security team would. 
